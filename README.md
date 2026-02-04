@@ -316,8 +316,4 @@ NEXTAUTH_SECRET=your-nextauth-secret
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License.
-# chaza
 # chaza
